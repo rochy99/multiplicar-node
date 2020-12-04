@@ -1,0 +1,6 @@
+
+#En este archivo lo utilizamos para ignorar archivos  que no
+#nesecitamos subir a git 
+node_modules/
+
+tablas/*.txt
